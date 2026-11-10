@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this figure code and the corresponding paper separately."
+title: "The Red Queen trap in science funding: figure code and derived data"
+type: software
+version: "1.1"
+authors:
+  - family-names: "Várbíró"
+    given-names: "Gábor"
+    orcid: "https://orcid.org/0000-0001-5907-3472"

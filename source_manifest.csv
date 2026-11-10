@@ -1,0 +1,8 @@
+source_id,path,sha256,url,locator
+NSF,data/nsf_baseline_matrix_and_scores.csv,f0296d3cd6709bd290c53ec70d37413d63d5bbd5a7a1afd43d8db74241084a6e,https://nsf-gov-resources.nsf.gov/files/FY-2023-MeritReviewDigest.pdf,"PDF pp4–5,18–19; derived ten-unit baseline"
+MSCA,data/msca_msca_reconstructed.csv,f2a4cff1a188cdfb52e6b4902f4af052dc74c24cfd9d8187e0ad82ec84055f2e,https://www.nks-msc.de/files/Auswertung_PF_2025_Web.pdf,PDF p1; 2024 companion URL changes 2025 to 2024
+NIH,data/nih_nih_anchor_metrics.csv,a2a20775557af491d2bc88970a5d3ce7c09f1afcaace6bc5e147a48cfe77b207,https://report.nih.gov/nihdatabook/report/302,Archived weighted-PAVA endpoint metrics; exact API in Supplement
+TAIWAN,data/taiwan_taiwan_pre_post_metrics.csv,603322056219abb844a8dc1d48f73dd667b50d0230935ba891090758bfc32485,https://www.nstc.gov.tw/nstc/attachments/19ff8af6-68e6-480d-a043-5c897d4ed155,"Tables5,7,11; PDF pp10,13,18"
+PORTFOLIO_VALUES,data/portfolio_values_portfolio_sensitivity.csv,df8142eff80582e927f336ce3fb97b80cb4eeeb352fb9394a8dc55a18d557384,,Existing deterministic scenario outputs
+PURE_COSTS,data/pure_costs_pure_mechanism_costs.csv,d811a26aae54024beb93427c78502bb2e2aeaf5c6420c1ed01a44f027135b087,,Existing synthetic-cost accounting
+PCA_BOOTSTRAP,data/pca_bootstrap_bootstrap_rank_summary.csv,223153e69e94656f0eb32d58622c47878826f858291a07a4ed66520f125a55fe,,Existing 1000-resample composition sensitivity
